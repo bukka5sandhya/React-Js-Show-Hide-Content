@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="311" alt="image" src="https://github.com/bukka5sandhya/React-Js-Show-Hide-Content/assets/133884532/c9f319a6-4228-4794-a8e1-5db59bff0e3e">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
